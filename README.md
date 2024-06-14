@@ -2,7 +2,7 @@
 
 - 👋 Hi, **I’m Samuel Kyeremeh**
 - 👀 I’m interested in **Machine Learning Engineering**
-- 🌱 I’m currently learning **HTML, CSS, Javascript, Django**
+- 🌱 I’m currently learning **Mobile App Development in React Native**
 - 📫 How to reach me affum3331@gmail.com
 - ⚡ Fun fact **I love to read**
 
