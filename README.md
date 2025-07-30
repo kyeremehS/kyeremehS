@@ -1,10 +1,5 @@
+I like deep neural nets.
 
-
-- 👋 Hi, **I’m Samuel Kyeremeh**
-- 👀 I’m interested in **Machine Learning Engineering**
-- 🌱 I’m currently learning **Machine Learning Pipeline Implementation**
-- 📫 How to reach me affum3331@gmail.com
-- ⚡ Fun fact **I love to read**
 
 <!---
 kyeremehS/kyeremehS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
